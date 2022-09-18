@@ -1,0 +1,7 @@
+1- install node
+2- install angular cli by run command => 
+	- npm config delete registry 
+	- npm install -g @angular/cli
+3- check cli version by run command  => ng --version
+4- install typescripty by run command => npm install -g typescript
+check for typescript version by run command=> tsc --version
